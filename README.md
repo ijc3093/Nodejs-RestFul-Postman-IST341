@@ -36,18 +36,18 @@ Get all data
 
 Get data by Id
 
-![Screenshot](https://github.com/ijc3093/Nodejs-RestFul-Postman-IST341/blob/screen/Employee/GET_BY_EMPLOYEES.png)
+![Screenshot](https://github.com/ijc3093/Nodejs-RestFul-Postman-IST341/blob/master/screen/Employee/GET_BY_EMPLOYEE.png)
 
 
 
 Post new data
 
-![Screenshot](https://github.com/ijc3093/Nodejs-RestFul-Postman-IST341/blob/screen/Employee/POST_EMPLOYEES.png.png)
+![Screenshot](https://github.com/ijc3093/Nodejs-RestFul-Postman-IST341/blob/master/screen/Employee/POST_EMPLOYEE.png)
 
 
 Put data
 
-![Screenshot](https://github.com/ijc3093/Nodejs-RestFul-Postman-IST341/blob/screen/Employee/PUT_EMPLOYEES.png.png)
+![Screenshot](https://github.com/ijc3093/Nodejs-RestFul-Postman-IST341/blob/master/screen/Employee/PUT_EMPLOYEE.png)
 
 
 
