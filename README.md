@@ -24,7 +24,7 @@ Post new data
 
 Edit data
 
-![Screenshot](https://github.com/ijc3093/Nodejs-RestFul-Postman-IST341/blob/master/screen/Departments/UT_DEPARTMENT.png)
+![Screenshot](https://github.com/ijc3093/Nodejs-RestFul-Postman-IST341/blob/master/screen/Departments/PUT_DEPARTMENT.png)
 
 
 
