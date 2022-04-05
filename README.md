@@ -56,12 +56,12 @@ Put new data
 # Timecard
 Get all data
 
-![Screenshot](https://github.com/ijc3093/Nodejs-RestFul-Postman-IST341/blob/master/screen/Time/GET_ALL_TIMECARDS.png)
+![Screenshot](https://github.com/ijc3093/Nodejs-RestFul-Postman-IST341/blob/master/screen/Times/GET_ALL_TIMECARDS.png)
 
 
 Get data by Id
 
-![Screenshot](https://github.com/ijc3093/Nodejs-RestFul-Postman-IST341/blob/master/screen/Time/GET_TIMECARD.png)
+![Screenshot](https://github.com/ijc3093/Nodejs-RestFul-Postman-IST341/blob/master/screen/Times/GET_TIMECARD.png)
 
-
-![Screenshot](https://github.com/ijc3093/Nodejs-RestFul-Postman-IST341/blob/master/screen/Time/POST_TIMECARD.png)
+Post new data
+![Screenshot](https://github.com/ijc3093/Nodejs-RestFul-Postman-IST341/blob/master/screen/Times/POST_TIMECARD.png)
